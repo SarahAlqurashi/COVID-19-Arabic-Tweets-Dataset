@@ -22,15 +22,3 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 # Inquiries  
 for Inquiries about the dataset contact Dr Eisa Alanazi at eaanazi@uqu.edu.sa
 or DR Ahmad Alhindi at ahhindi@uqu.edu.sa or Sarah Alqurashi at saraa.alqurashi@gmail.com 
-
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
-International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
