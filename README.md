@@ -24,7 +24,7 @@ for Inquiries about the dataset contact Dr Eisa Alanazi at eaanazi@uqu.edu.sa
 or DR Ahmad Alhindi at ahhindi@uqu.edu.sa or Sarah Alqurashi at saraa.alqurashi@gmail.com 
 
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+Shield: [![CC BY-NC-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
