@@ -7,6 +7,9 @@ The repository contains a collection of Arabic tweets IDs associated with the no
 *	Only tweets in Arabic language were collected from   1 ,March,2020  to  30,March,2020.
 * The keywords.txt file contains the updated keywords along with the date we began tracing them. The Hashtags.txt files contain the Hashtags that we are followed in our Twitter data-set and the number of tweets collected for each hashtag.
 * Since Twitter’s search API have a restriction for data retrieval only 45,000 tweets every 15 minutes, Therefore, there are, are missing hours of data.
+* We provided preliminary statistics of the data-set in the associated paper to this repository. the preliminary statistics will be automatically updated with every update of the dataset.
+* for retrieving, the full object of the tweet considers the following tools Hydrator and Twarc.
+
 # Dataset Statistics
 The following statistics is from Tweets colected until 12:59  PM  UTC 30,March,2020.<br/>
 The Number of Tweets: 2,433,660<br/>
