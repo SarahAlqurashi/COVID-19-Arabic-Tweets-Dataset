@@ -13,7 +13,8 @@ The Number of Tweets: 2,433,660
 The Number of Orignal Tweets:2,433,389
 The Number of  Retweets:271
 The Average  of Tweets Collected Daily : 77279
-
+# Licensing
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0). you agree to abide by the stipulations in the license, remain in compliance with Twitter’s Terms of Service, and cite the following manuscript:
 # Inquiries  
 for Inquiries about the dataset contact Dr Eisa Alanazi at eaanazi@uqu.edu.sa
 or DR Ahmad Alhindi at ahhindi@uqu.edu.sa or Sarah Alqurashi at saraa.alqurashi@gmail.com 
