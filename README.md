@@ -20,7 +20,7 @@ The Number of  Retweets:271<br/>
 The Average  of Tweets Collected Daily : 77279<br/>
 ![](images/daily_distributions.png)
 # Licensing
-This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).By using this dataset you agree to The terms of the license, and to all  Twitter’s Terms of Service, and cite our paper
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).By using this dataset , you agree to the terms of the license, and to all  [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite our paper
 # Contact  
 If you have any suggestions or questions, please reach out to saraa.alqurashi@gmail.com  or  eaanazi@uqu.edu.sa
  
