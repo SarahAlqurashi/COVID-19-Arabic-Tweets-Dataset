@@ -13,7 +13,7 @@ and continuosly update this page.
 * For retrieving, the full object of the tweet consider the following tools [Hydrator](https://github.com/DocNow/hydrator)  and [twarc](https://github.com/DocNow/twarc) .
 
 # Dataset Statistics
-The following statistics is from Tweets colected from March 1,2020 to March 30,2020.<br/>
+The following statistics is from Tweets colected until 12:59 PM UTC March,30,2020.<br/>
 The Number of Tweets: 2,433,660<br/>
 The Number of Orignal Tweets:2,433,389<br/>
 The Number of  Retweets:271<br/>
