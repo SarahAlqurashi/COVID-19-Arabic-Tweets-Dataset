@@ -1,6 +1,6 @@
 # COVID-19-Arabic-Tweets-Dataset
 The repository contains a collection of Arabic tweets IDs related to novel coronavirus COVID-19. The dataset contains Tweets ids for March,2020 . The Twitter search API was used to gather real-time tweets that contained specific keywords in the Arabic language. To comply with [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), only the ids of the tweets are released. This dataset is for non-commercial research use only.
-# Data Structure
+# Data Organization
 * As of April 9, 2020 we have only the March, 2020 tweets. We plan to add more months in upcoming days
 and continuosly update this page.
 *	Tweet-ID files are stored in folders that indicate the year and month of the collection
@@ -22,5 +22,5 @@ The Average  of Tweets Collected Daily : 77279<br/>
 # Licensing
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).By using this dataset , you agree to the terms of the LICENSE, and to all  [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite our paper
 # Contact  
-If you have any suggestions or questions, please reach out to saraa.alqurashi@gmail.com  or  eaanazi@uqu.edu.sa
+If you have any suggestions or questions, please reach out to saraa.alqurashi on Gmail or  eaanazi(AT)uqu(dot)edu(dot)sa
  
