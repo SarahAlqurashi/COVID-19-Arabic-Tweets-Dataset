@@ -21,7 +21,7 @@ The Average  of Tweets Collected Daily : 77279<br/>
 ![](images/daily_distributions.png)
 # Licensing
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).By using this dataset , you agree to the terms of the LICENSE, and to all  [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite our paper:
-[](https://arxiv.org/abs/2004.04315)
+https://arxiv.org/abs/2004.04315
 # Contact  
 If you have any suggestions or questions, please reach out to saraa.alqurashi on Gmail or  eaanazi(AT)uqu(dot)edu(dot)sa
  
