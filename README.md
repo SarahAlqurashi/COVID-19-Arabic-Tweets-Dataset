@@ -19,6 +19,19 @@ The Number of Orignal Tweets:2,433,389<br/>
 The Number of  Retweets:271<br/>
 The Average  of Tweets Collected Daily : 77279<br/>
 ![](images/daily_distributions.png)
+# Guideline to Hydrate
+ ### Using TWARC Notebook ### 
+To hydrate the tweets-ID from our [COVID-19-Arabic-Tweets-Dataset GitHub repository](http://github.com/SarahAlqurashi/COVID-19-Arabic-Tweets-Dataset) you can use our  [Hydrate_TweetIDs_Arabic_COVID19](https://github.com/SarahAlqurashi/COVID-19-Arabic-Tweets-Dataset/blob/master/Guideline%20to%20Hydrate/Hydrate_TweetIDs_Arabic_COVID19.ipynb) notebook.
+
+* The notebook runs on google collab 
+* You are required to have a Twitter developer account
+
+For those who prefer  to use a Graphical User Interface (GUI) , We suggest using [Hydrator](https://github.com/DocNow/hydrator).
+
+ ### Using [Hydrator](https://github.com/DocNow/hydrator)
+To use Hydrator follow the instructions in the [Hydrator GitHub repository](https://github.com/DocNow/hydrator). 
+
+For Arabic guideline  on both [Hydrator](https://github.com/DocNow/hydrator) and our [Twarc notebook](https://github.com/SarahAlqurashi/COVID-19-Arabic-Tweets-Dataset/blob/master/Guideline%20to%20Hydrate/Hydrate_TweetIDs_Arabic_COVID19.ipynb) check our [دليل استعادة قاعدة بيانات التغريدات](https://github.com/SarahAlqurashi/COVID-19-Arabic-Tweets-Dataset/blob/master/Guideline%20to%20Hydrate/دليل%20استعادة%20قاعدة%20بيانات%20التغريدات.pdf).
 # Licensing
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).By using this dataset , you agree to the terms of the LICENSE, and to all  [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite our paper:
 https://arxiv.org/abs/2004.04315
