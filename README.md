@@ -13,7 +13,7 @@ and continuosly update this page.
 * For retrieving, the full object of the tweet consider the following tools [Hydrator](https://github.com/DocNow/hydrator)  and [twarc](https://github.com/DocNow/twarc) .
 
 # Dataset Statistics
-The following statistics is from Tweets colected until 12:59 PM UTC March,30,2020.<br/>
+The following statistics is from Tweets colected until April,15,2020.<br/>
 The Number of Tweets: 8,091,298 <br/>
 The Average  of Tweets Collected Daily : 77471 <br/>
 ![](images/daily_distributions.png)
