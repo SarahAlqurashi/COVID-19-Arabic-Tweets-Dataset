@@ -1,7 +1,7 @@
 # COVID-19-Arabic-Tweets-Dataset
-The repository contains a collection of Arabic tweets IDs related to novel coronavirus COVID-19. The dataset contains Tweets ids starting from  February,2020 . The Twitter search API was used to gather real-time tweets that contained specific keywords in the Arabic language. To comply with [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), only the ids of the tweets are released. This dataset is for non-commercial research use only.
+The repository contains a collection of Arabic tweets IDs related to novel coronavirus COVID-19. The dataset contains Tweets ids starting from  January ,2020 . The Twitter search API was used to gather real-time tweets that contained specific keywords in the Arabic language. To comply with [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), only the ids of the tweets are released. This dataset is for non-commercial research use only.
 # Data Organization
-* As of April 19, 2020 we have tweets from February,2020 unitl April 15, 2020 tweets. We plan to add more months in upcoming days
+* As of April 19, 2020 we have tweets from January,2020 unitl April 15, 2020 tweets. We plan to add more months in upcoming days
 and continuosly update this page.
 *	Tweet-ID files are stored in folders that indicate the year and month of the collection
 *	The Tweet-ID files contain the tweets ids, all files name have the same structure, with a prefix “COVID19-tweetID-year-month-day"
@@ -14,8 +14,8 @@ and continuosly update this page.
 
 # Dataset Statistics
 The following statistics is from Tweets colected until 12:59 PM UTC March,30,2020.<br/>
-The Number of Tweets: 3,818,680<br/>
-The Average  of Tweets Collected Daily : 77279<br/>
+The Number of Tweets: 8,091,298 <br/>
+The Average  of Tweets Collected Daily : 77471 <br/>
 ![](images/daily_distributions.png)
 # Guideline to Hydrate
  ### Using TWARC Notebook ### 
