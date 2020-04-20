@@ -7,7 +7,7 @@ and continuosly update this page.
 *	The Tweet-ID files contain the tweets ids, all files name have the same structure, with a prefix “COVID19-tweetID-year-month-day"
 # Dataset collection
 *	Only tweets in Arabic language were collected from February 1,2020 to April 15, 2020.
-* The keywords.txt file contains the updated keywords along with the date we began tracing them. The Hashtags.txt files contain the hashtags that we followed in our Twitter data-set and the number of tweets collected for each hashtag along with the date we began tracing them.
+* The keywords.txt file contains the updated keywords along with the date we began tracing them. The Hashtags.txt files contain the hashtags that we followed in our Twitter data-set along with the date we began tracing them.
 * Since Twitter’s search API have a restriction on the amount of the retrieved data there are missing hours of data.
 * We provided preliminary statistics of the data-set in the associated paper to this repository. The preliminary statistics will be automatically updated with every update of the dataset.
 * For retrieving, the full object of the tweet consider the following tools [Hydrator](https://github.com/DocNow/hydrator)  and [twarc](https://github.com/DocNow/twarc) .
