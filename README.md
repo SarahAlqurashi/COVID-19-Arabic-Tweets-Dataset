@@ -14,8 +14,8 @@ and continuosly update this page.
 
 # Dataset Statistics
 The following statistics is from Tweets colected until April,15,2020.<br/>
-The Number of Tweets: 8,091,298 <br/>
-The Number of Original Tweets : 8,090,923
+The Number of Tweets: 3,934,610 <br/>
+The Number of Original Tweets : 3,934,235
 The Number of  Retweets: 375
 The Average  of Tweets Collected Daily : 77471 <br/>
 ![](images/daily_distributions.png)
