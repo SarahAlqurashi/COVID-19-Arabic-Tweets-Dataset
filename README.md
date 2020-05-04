@@ -19,7 +19,6 @@ The Number of Original Tweets : 4,513,576 <br/>
 The Number of  Retweets: 560 <br/>
 The Number of Tweets with geolocation :611 <br>
 The Average  of Tweets Collected Daily : 77471 <br/>
-![](images/daily_distributions.png)
 ![](images/geotag.png)
 # Guideline to Hydrate
  ### Using TWARC Notebook ### 
