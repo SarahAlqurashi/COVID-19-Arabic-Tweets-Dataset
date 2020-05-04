@@ -20,6 +20,7 @@ The Number of  Retweets: 560 <br/>
 The Number of Tweets with geolocation :611 <br>
 The Average  of Tweets Collected Daily : 77471 <br/>
 ![](images/daily_distributions.png)
+![](images/geotag.png)
 # Guideline to Hydrate
  ### Using TWARC Notebook ### 
 To hydrate the tweets-ID from our [COVID-19-Arabic-Tweets-Dataset GitHub repository](http://github.com/SarahAlqurashi/COVID-19-Arabic-Tweets-Dataset) you can use our  [Hydrate_TweetIDs_Arabic_COVID19](https://github.com/SarahAlqurashi/COVID-19-Arabic-Tweets-Dataset/blob/master/Guideline%20to%20Hydrate/Hydrate_TweetIDs_Arabic_COVID19.ipynb) notebook.
