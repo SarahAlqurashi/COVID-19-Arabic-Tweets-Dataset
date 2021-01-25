@@ -1,12 +1,12 @@
 # COVID-19-Arabic-Tweets-Dataset
 The repository contains a collection of Arabic tweets IDs related to novel coronavirus COVID-19. The dataset contains Tweets ids starting from  January ,2020 . The Twitter search API was used to gather real-time tweets that contained specific keywords in the Arabic language. To comply with [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), only the ids of the tweets are released. This dataset is for non-commercial research use only.
 # Data Organization
-* As of May 1, 2020 we have tweets from January,2020 unitl April 30, 2020 tweets. We plan to add more months in upcoming days
+* As of Jan 26, 2021 we have tweets from January,2020 unitl May 30, 2020 tweets. We plan to add more months in upcoming days
 and continuosly update this page.
 *	Tweet-ID files are stored in folders that indicate the year and month of the collection
 *	The Tweet-ID files contain the tweets ids, all files name have the same structure, with a prefix “COVID19-tweetID-year-month-day"
 # Dataset collection
-*	Only tweets in Arabic language were collected from January 1,2020 to April 30, 2020.
+*	Only tweets in Arabic language were collected from January 1,2020 to May 30, 2020.
 * The keywords.txt file contains the updated keywords along with the date we began tracing them. The Hashtags.txt files contain the hashtags that we followed in our Twitter data-set the number of tweets collected for each hashtag along with the date we began tracing them.
 * Since Twitter’s search API have a restriction on the amount of the retrieved data there are missing hours of data.
 * We provided preliminary statistics of the data-set in the associated paper to this repository. The preliminary statistics will be automatically updated with every update of the dataset.
@@ -14,11 +14,9 @@ and continuosly update this page.
 
 # Dataset Statistics
 The following statistics is from Tweets colected until April,30,2020.<br/>
-The Number of Tweets: 4,514,136 <br/>
-The Number of Original Tweets : 4,513,576 <br/>
-The Number of  Retweets: 560 <br/>
-The Number of Tweets with geolocation :611 <br>
-The Average  of Tweets Collected Daily : 77471 <br/>
+The Number of Tweets:  6,086,085 <br/>
+The Number of Tweets with geolocation :3925 <br>
+The Average  of Tweets Collected Daily : 40573 <br/>
 ![](images/geotag.png)
 # Guideline to Hydrate
  ### Using TWARC Notebook ### 
