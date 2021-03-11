@@ -13,7 +13,7 @@ and continuosly update this page.
 * For retrieving, the full object of the tweet consider the following tools [Hydrator](https://github.com/DocNow/hydrator)  and [twarc](https://github.com/DocNow/twarc) .
 
 # Dataset Statistics
-The following statistics is from Tweets colected until April,30,2020.<br/>
+The following statistics is from Tweets colected until May,30,2020.<br/>
 The Number of Tweets:  6,086,085 <br/>
 The Number of Tweets with geolocation :3925 <br>
 The Average  of Tweets Collected Daily : 40573 <br/>
